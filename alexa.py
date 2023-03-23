@@ -52,6 +52,8 @@ def run_alexa():
     elif 'are you single' in command:
         talk('I am in a relationship with wifi')
         print('I am in a relationship with wifi')
+    elif 'how are you' in command:
+        talk('I am fine, what can I do for you?')
     elif 'joke' in command:
         talk(pyjokes.get_joke())
         print(pyjokes.get_joke())
