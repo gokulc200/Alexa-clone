@@ -29,3 +29,11 @@ To set up the Alexa clone, follow these steps ton install packages:
 ▶️To get wikipedia data: **pip install wikipedia**
 
 ▶️To get funny jokes: **pip install pyjokes**
+
+
+
+
+
+https://user-images.githubusercontent.com/121416463/227235312-3df77111-4c0a-404d-a3e8-00f560c9fa49.mp4
+
+
