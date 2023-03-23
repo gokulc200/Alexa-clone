@@ -1,8 +1,7 @@
 # Alexa-clone
 
 This is an open-source project that aims to create a clone of Amazon's Alexa virtual assistant. 
-The goal is to provide users with a similar voice-based interface that can perform a variety of tasks such as answering questions, setting reminders, controlling 
-smart home devices, playing music, and more.
+The goal is to provide users with a similar voice-based interface that can perform a variety of tasks such as answering questions, getting current time interval, playing music, and more.
 
 <h2>Features</h2>
 The Alexa clone includes the following features:
